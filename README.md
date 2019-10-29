@@ -1,3 +1,4 @@
 # experiment-record
  ----Pengbo Li---- 
- should record everyday's work on experiment
+ 
+ 1. should record everyday's work on experiment
