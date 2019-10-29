@@ -1,4 +1,4 @@
 # experiment-record
  ----Pengbo Li---- 
  
- 1. should record everyday's work on experiment
+ record everyday's work on TAMA
