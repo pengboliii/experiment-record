@@ -1,7 +1,0 @@
-#measure the polarization map of OSTM with ATC coating
-
-  1.p-polarization 
-    with DC = 151 mV, AC = 1.9mW, HWP = 141 deg, QWP = 200 deg.
-    sensitivity: AC = 10 mV, DC = 1000 mW
-			
-  
