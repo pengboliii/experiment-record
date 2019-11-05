@@ -1,7 +1,10 @@
 # PCI system---Absorption Measurement Setup 
 
 
-## 1.Setup Introduction
-### Components
-* pump beam
+## Abstract
+## 1. Introduction
+## 2. setup 
+## 3. Measurement
+## 4. Conclusion
+
 
