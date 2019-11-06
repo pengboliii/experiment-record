@@ -8,6 +8,7 @@ We developed and tested an optical absorption measurement system based on the so
 <br/>
 The optical absorption of a material is the transformation of part of the incident optical power into heat. The way to measure absorption is to sense how much the temperature increase when a laser goes through the material. When the temperature change is small, of the order of few mK, a direct measurement with a thermometer might be inaccurate. In the case of optics, we can take advantage of the so-called 
 thermal lens effect, which is caused by the fact that the refractive index depends on the temperature.The temperature distribution fluctuation makes the refractive index gradient, which produces the thermal lens effect. The perturbation that a laser experience when passing though such thermal lens can be measured with a photodector.
+<br/>
 ### 1.1 Working pricinple
 
 ## 2. setup 
